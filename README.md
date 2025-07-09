@@ -33,3 +33,5 @@ git clone https://github.com/alqmnzBOTS/SubscriptionTrackingBotTELEGRAM.git cd S
 2. Установите зависимости: pip install -r requirements.txt
 3. Создайте файл .env и добавьте токен бота: BOT_TOKEN=ваш_токен_бота
 4.Запустите бота: python main.py
+---
+мой telegram для связи: alqmnz
