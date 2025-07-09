@@ -30,7 +30,7 @@
 ### Инструкция
 1. Клонируйте репозиторий:
 git clone https://github.com/alqmnzBOTS/SubscriptionTrackingBotTELEGRAM.git
-cd название-репозитория
+cd SubscriptionTrackingBotTELEGRAM
 2. Установите зависимости:
 pip install -r requirements.txt
 3. Создайте файл .env и добавьте токен бота:
